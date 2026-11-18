@@ -1,0 +1,13 @@
+{
+  "name": "lillu-ai-backend",
+  "version": "1.0.0",
+  "description": "Lillu AI Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^5.20.0"
+  }
+}
